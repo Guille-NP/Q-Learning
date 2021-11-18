@@ -1,2 +1,2 @@
-# q-learning
-Q-Learning (Reinforcement Learning Introduction)
+# Q-Learning
+### A reinforcement learning introduction
